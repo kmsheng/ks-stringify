@@ -1,0 +1,26 @@
+{
+  "name": "ks-stringify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "kmsheng <kmsh3ng@gmail.com> (https://kmsheng.com)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.1.0",
+    "readable-stream": "^2.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.1"
+  },
+  "keywords": [
+    "Stringify",
+    "nested",
+    "JSON",
+    "through",
+    "streams."
+  ],
+  "description": ""
+}
