@@ -4,7 +4,7 @@
 Stream version of JSON.stringify
 
 Example
-```
+```js
 var stringify = require('ks-stringify');
 var fs = require('fs');
 var writeStream = fs.createWriteStream('data.json');
