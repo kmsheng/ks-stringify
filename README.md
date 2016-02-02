@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kmsheng/ks-stringify.svg?branch=master)](https://travis-ci.org/kmsheng/ks-stringify) 
+
 # ks-stringify
 Stream version of JSON.stringify
 
